@@ -2,13 +2,7 @@
 Important tools i used to find bugbounty
 
 
-OWASP ZAP
 
-Dirb  - used to 
-
-Dirbuster
-
-Gobuster
 
 Wpscan - find to scan wordpress website content
 
@@ -22,13 +16,17 @@ Builtwith  - find the website technology is based on
 
 Wappalyzer - find the website technologies 
 
+cookie editor - extention for perform cookie authentication etc
+
 nmap - find the open ports, servics, version no, contentdiscovery 
+
+Dirbuster - Bruteforce directories and file name on web application server, or misconfigured server, not able to public exposed or able to hold off.  
 
 Knockpy - find the subdomain enumeration using wordlist 
 
 Sublist3r - find the subdomain enumeration using searchengine
 
-Wfuzz
+Wfuzz - pre install with(type) kali, fuzz and discovery tool, to discover web content using wordlist. 
 
 Striker - find the vulnerabilities and offensive information collection 
 
@@ -52,4 +50,5 @@ https://gchq.github.io/CyberChef/  - used to perform coding and decoding algorit
 
 google dork - 
 
+OWASP ZAP
 
