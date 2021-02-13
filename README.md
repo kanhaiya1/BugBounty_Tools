@@ -3,10 +3,15 @@ Important tools i used to find bugbounty
 
 
 OWASP ZAP
+
 Dirb  - used to 
+
 Dirbuster
+
 Gobuster
+
 Wfuzz
+
 Burp Suite - proxy swiss knife for hunt 
 Sublist3r - find the subdomain enumeration using searchengine
 Massdns
