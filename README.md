@@ -54,3 +54,7 @@ google dork -
 
 OWASP ZAP
 
+-------------------Vulnearbilities exploitation-------------------- 
+
+LFISuite
+
