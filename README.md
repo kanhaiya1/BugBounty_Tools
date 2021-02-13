@@ -56,5 +56,6 @@ OWASP ZAP
 
 -------------------Vulnearbilities exploitation-------------------- 
 
-LFISuite
+LFISuite - Find LFI with command line tool. 
 
+Sqlmap - find the sql injection vulnerabilities
